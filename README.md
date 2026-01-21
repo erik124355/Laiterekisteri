@@ -26,3 +26,4 @@ Laiterekisteri on koululle suunnattu verkkosivusto, jonka avulla opettajat voiva
 - Backend: PHP & MySQL  
 - Frontend: HTML, CSS & JavaScript  
 
+---

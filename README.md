@@ -26,10 +26,3 @@ Laiterekisteri on koululle suunnattu verkkosivusto, jonka avulla opettajat voiva
 - Backend: PHP & MySQL  
 - Frontend: HTML, CSS & JavaScript  
 
----
-
-## Asennus
-
-1. Lataa projekti GitHubista:  
-   ```bash
-   git clone https://github.com/<käyttäjätunnus>/laiterekisteri.git

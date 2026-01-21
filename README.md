@@ -1,7 +1,5 @@
 # Laiterekisteri
 
-![PHP](https://img.shields.io/badge/PHP-7.4-blue) ![MySQL](https://img.shields.io/badge/MySQL-8.0-green) ![License](https://img.shields.io/badge/License-MIT-lightgrey)
-
 **Tekijä:** Erik Cerrada Plumed
 
 Laiterekisteri on koululle suunnattu verkkosivusto, jonka avulla opettajat voivat varata teknologialaitteita helposti ja hallitusti.
